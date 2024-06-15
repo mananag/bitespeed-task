@@ -45,6 +45,9 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
+### Hosted Endpoint:
+https://bitespeed-task-nanr.onrender.com/identify
+
 ## Test
 
 ```bash
@@ -57,6 +60,10 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
+
+## Sample Request and Response
+
+![](/samplerequest.png)
 
 ## Support
 
